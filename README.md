@@ -1,4 +1,4 @@
-![image alt]([https://github.com/kiw4158/Autonomes-Fliegen/blob/bff543ba0f570d615fd89b6e317377c4dcc73b79/assets/3D%20H%C3%B6henmodell%20mit%20Pfad%20und%20Markern.png](https://github.com/kiw4158/Autonomes-Fliegen/blob/3b674516ac8a1aa65bb988649fb824bc1ba2e14c/assets/Topografische%20Karte%20mit%20Flugroute.png))
+![image alt](https://github.com/kiw4158/Autonomes-Fliegen/blob/e2fa857e87ee2744f097012fdbf8d86e7481b804/assets/Topografische%20Karte%20mit%20Flugroute.png)
 # ✈️ Autonomes Fliegen
 
 > Sammlung von Vorlesungsmaterialien und Übungen zum Thema autonomes Fliegen mit Drohnen (UAVs).
